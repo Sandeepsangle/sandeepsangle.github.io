@@ -8,13 +8,10 @@ export const Bio = {
   ],
   description:
     "I am highly motivated to continuously enhance my skills and advance professionally ideas. Currently, I am exploring various domains closely related to software development.",
-  github: "https://github.com/rishavchanda",
+  github: "https://github.com/Sandeepsangle",
   resume:
     "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  twitter: "https://twitter.com/RishavChanda",
-  // insta: "https://www.instagram.com/rishav_chanda/",
-  // facebook: "https://www.facebook.com/rishav.chanda.165/",
+  linkedin: "www.linkedin.com/in/sandeep-sangle-0110b6218/",
 };
 
 export const skills = [
