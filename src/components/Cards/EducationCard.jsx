@@ -132,6 +132,7 @@ const EducationCard = ({ education }) => {
     return (
         <Card>
             <Top>
+                {/* <Image src={require(`../../images/${education.img}`)} /> */}
                 <Image src={education.img} />
                 <Body>
                     <Name>{education.school}</Name>
