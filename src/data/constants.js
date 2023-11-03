@@ -211,7 +211,7 @@ export const experiences = [
     img: "https://drive.google.com/uc?export=view&id=1GxH6b89BD7sqvBW61TQDmwiBDbmseqyY",
     role: "Software Developer",
     company: "SoftComp Solutions",
-    date: "Nov 2021 - Mar 2022",
+    date: "Oct 2021 - Mar 2022",
     desc: "Engineered a customized accounting software solution in VB.NET, employing advanced design patterns and modular coding practices for extensibility. Utilized SQL for robust data management and integrated Crystal Reports for dynamic financial reporting.",
     skills: [
       ". Net",
