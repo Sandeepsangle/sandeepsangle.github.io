@@ -10,7 +10,7 @@ export const Bio = {
     "I am highly motivated to continuously enhance my skills and advance professionally ideas. Currently, I am exploring various domains closely related to software development.",
   github: "https://github.com/Sandeepsangle",
   resume:
-    "https://drive.google.com/file/d/1-t1EVr91OLjIuelF63Rdb09pudL3Dri7/view?usp=sharing",
+    "https://drive.google.com/file/d/17046zESubyN4n6z-zCI3DJeXk-mmb6Uf/view?usp=sharing",
   linkedin: "www.linkedin.com/in/sandeep-sangle-0110b6218/",
 };
 
